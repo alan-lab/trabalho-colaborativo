@@ -1,0 +1,4 @@
+git -v Retorna a versao do git (util para ver se o computador tem git instalado)
+git init - Inicia o git dentro do repositorio adicionando a pasta oculta ".git"
+git log Mostra o historico de commits realizados no repositorio
+
